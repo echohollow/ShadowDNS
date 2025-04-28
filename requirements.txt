@@ -1,0 +1,9 @@
+scapy>=2.5.0
+matplotlib>=3.7.0
+sqlite3
+python-dateutil>=2.8.2
+numpy>=1.22.0
+colorama>=0.4.6
+pywin32>=303; platform_system=="Windows"
+dpkt>=1.9.8; extra=="enhanced"
+pydivert>=2.1.0; platform_system=="Windows" and extra=="enhanced"
