@@ -43,7 +43,6 @@ Optional components for enhanced capture capabilities:
 git clone https://github.com/echohollow/ShadowDNS.git
 cd ShadowDNS
 pip install -r requirements.txt
-python main.py
 ```
 
 ### Usage
