@@ -1,4 +1,3 @@
-```markdown
 # ShadowDNS
 
 ## Advanced DNS Monitoring Tool for Security Professionals
@@ -41,7 +40,7 @@ Optional components for enhanced capture capabilities:
 ### Installation
 
 ```bash
-git clone https://github.com/echohollow/ShadowDNS
+git clone https://github.com/echohollow/ShadowDNS.git
 cd ShadowDNS
 pip install -r requirements.txt
 python main.py
@@ -77,4 +76,3 @@ I designed this tool for authorized security testing, research, and defensive mo
 ### License
 
 This project is released under the MIT License.
-```
