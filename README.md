@@ -71,7 +71,3 @@ python main.py
 ### Security Notice
 
 I designed this tool for authorized security testing, research, and defensive monitoring only. Users are responsible for ensuring all usage complies with applicable laws and regulations.
-
-### License
-
-This project is released under the MIT License.
